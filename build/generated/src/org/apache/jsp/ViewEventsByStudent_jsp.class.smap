@@ -1,0 +1,25 @@
+SMAP
+ViewEventsByStudent_jsp.java
+JSP
+*S JSP
+*F
++ 0 ViewEventsByStudent.jsp
+ViewEventsByStudent.jsp
++ 1 db.jsp
+db.jsp
+*L
+1:57
+1#1:58
+3,3:12
+5:59
+7,3:61
+2#0,46:64
+48,2:16
+49,14:110
+63,4:125
+66,2:129
+68,6:131,3
+74,2:149
+76,4:152
+79,19:156
+*E

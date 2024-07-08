@@ -1,0 +1,25 @@
+SMAP
+ViewAttendancePercentage_jsp.java
+JSP
+*S JSP
+*F
++ 0 ViewAttendancePercentage.jsp
+ViewAttendancePercentage.jsp
++ 1 db.jsp
+db.jsp
+*L
+1:64
+1#1:65
+3,3:13
+5:66
+7,3:68
+2#0,48:71
+50,8:17
+57,16:119
+73,41:136
+113,2:177
+115,8:179,3
+123,2:203
+125,4:206
+128,35:210
+*E

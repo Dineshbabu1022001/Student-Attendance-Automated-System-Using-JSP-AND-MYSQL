@@ -1,0 +1,25 @@
+SMAP
+StudentRegistration_jsp.java
+JSP
+*S JSP
+*F
++ 0 StudentRegistration.jsp
+StudentRegistration.jsp
++ 1 db.jsp
+db.jsp
+*L
+1:60
+1#1:61
+3,3:12
+5:62
+7,3:64
+2#0,51:67
+52,2:15
+53,98:118
+151,3:18
+153,2:216
+155,33:219
+187,2:252
+189:254,3
+190,14:257
+*E
